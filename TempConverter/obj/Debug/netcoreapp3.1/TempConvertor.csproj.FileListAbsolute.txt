@@ -1,0 +1,13 @@
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\bin\Debug\netcoreapp3.1\TempConvertor.exe
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\bin\Debug\netcoreapp3.1\TempConvertor.deps.json
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\bin\Debug\netcoreapp3.1\TempConvertor.runtimeconfig.json
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\bin\Debug\netcoreapp3.1\TempConvertor.runtimeconfig.dev.json
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\bin\Debug\netcoreapp3.1\TempConvertor.dll
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\bin\Debug\netcoreapp3.1\TempConvertor.pdb
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\obj\Debug\netcoreapp3.1\TempConvertor.csproj.AssemblyReference.cache
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\obj\Debug\netcoreapp3.1\TempConvertor.AssemblyInfoInputs.cache
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\obj\Debug\netcoreapp3.1\TempConvertor.AssemblyInfo.cs
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\obj\Debug\netcoreapp3.1\TempConvertor.csproj.CoreCompileInputs.cache
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\obj\Debug\netcoreapp3.1\TempConvertor.dll
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\obj\Debug\netcoreapp3.1\TempConvertor.pdb
+C:\Users\disho\source\repos\TempConvertor\TempConvertor\obj\Debug\netcoreapp3.1\TempConvertor.genruntimeconfig.cache
